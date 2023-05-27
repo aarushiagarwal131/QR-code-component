@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
@@ -21,6 +22,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### Links
+
+- Live Site URL: [Click here](https://aarushiagarwal131.github.io/QR-code-component/)
 
 ### What I learned
 
